@@ -1,0 +1,17 @@
+.App {
+  height: 100vh;
+  width: 100%;
+  background-image: url('./images/bannerbackground.png');
+  background-position: center;
+  background-size: cover;
+  text-align: center;
+ 
+}
+.App img{
+  height: 80px;
+}
+.input-form{
+  position: absolute;
+  top: 10%;
+  left: 40%;
+}
